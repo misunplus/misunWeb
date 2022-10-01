@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.34.200.36" id="c1a42dd5-d9f4-4395-8979-713a948e1970" keyPath="$USER_HOME$/Documents/aws_misunplus20220815/server_20220815_key.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
